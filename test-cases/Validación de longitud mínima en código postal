@@ -1,0 +1,17 @@
+## TC-CHECKOUT-01 - Validación de longitud mínima en código postal
+
+**Precondición:**
+Usuario logueado con al menos un producto en el carrito
+
+**Pasos:**
+1. Ir al carrito de compras
+2. Hacer clic en Checkout
+3. Ingresar First Name válido
+4. Ingresar Last Name válido
+5. Ingresar un código postal con menos caracteres de los permitidos (ej: "12")
+6. Hacer clic en Continue
+
+**Resultado esperado:**
+- El sistema no debe permitir avanzar
+- Se debe mostrar un mensaje de error indicando que el código postal es inválido o incompleto
+- El usuario permanece en la pantalla de checkout
