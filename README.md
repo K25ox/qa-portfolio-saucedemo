@@ -1,2 +1,10 @@
-# qa-portfolio-saucedemo
-Manual QA testing project based on SauceDemo application. Covers test case design, functional testing, bug reporting, and validation of user flows such as login, product selection, and checkout.
+# QA Portfolio - SauceDemo
+
+This project showcases my manual QA testing skills using the SauceDemo web application.
+
+## Scope
+- Login functionality testing
+
+## Testing Activities
+- Test case design
+- Bug reporting
