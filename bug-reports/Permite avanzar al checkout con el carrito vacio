@@ -1,0 +1,27 @@
+## BUG-02 - Permite avanzar al checkout con el carrito vacio
+
+**Entorno:**
+Chrome - Windows
+
+**Pasos para reproducir:**
+1. Ir a la página de login
+2. Ingresar usuario válido y contraseña válida
+3. Hacer clic en Login
+4. hacer click en el carrito de compras
+5. Hacer clic en Checkout
+6. Ingresar First Name
+7. Ingresar Last Name
+8. Ingresar un código postal válido
+9. Hacer clic en Continue
+
+**Resultado esperado:**
+- El sistema no debe permitir avanzar al checkout si el carrito está vacío
+- Se debe mostrar un mensaje de error indicando que el carrito esta vacio al hacer click en Checkout
+- El usuario permanece en el carrito de compras
+
+**Resultado actual:**
+- No se muestra ningún mensaje de error
+- El sistema permite avanzar al siguiente paso del checkout
+
+**Severidad:**
+Alta
