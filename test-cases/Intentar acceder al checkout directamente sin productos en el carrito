@@ -1,0 +1,15 @@
+## TC-CHECKOUT-02 - Intentar acceder al checkout directamente sin productos en el carrito
+
+**Precondición:**
+Usuario logueado sin productos en el carrito
+
+**Pasos:**
+1. Iniciar sesión con usuario válido
+2. No agregar productos al carrito
+3. Navegar directamente a la URL de checkout (si es posible) o acceder desde el carrito vacío
+4. Intentar continuar con el proceso de compra
+
+**Resultado esperado:**
+- El sistema no debe permitir acceder al checkout
+- Se debe mostrar un mensaje indicando que el carrito está vacío
+- El usuario es redirigido al carrito o a la lista de productos
