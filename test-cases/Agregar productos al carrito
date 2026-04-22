@@ -1,0 +1,13 @@
+## TC-CART-01 - Agregar producto al carrito
+
+**Precondición:**
+Usuario logueado
+
+**Pasos:**
+1. Ir al listado de productos
+2. Hacer clic en "Add to cart"
+3. Ir al carrito
+
+**Resultado esperado:**
+- El producto se agrega correctamente
+- El carrito muestra la cantidad correcta
