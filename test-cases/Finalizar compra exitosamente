@@ -1,0 +1,41 @@
+## TC-CHECKOUT-03 - Complete purchase successfully
+
+**Precondition:**
+User is logged in 
+
+**Steps:**
+1. Add a product to the cart
+2. Navigate to the cart
+3. Click on Checkout
+4. Enter valid First Name
+5. Enter valid Last Name
+6. Enter valid Postal Code
+7. Click on Continue
+8. Click on Finish
+
+**Expected Result:**
+- The order is completed successfully
+- A confirmation message is displayed (e.g., "Thank you for your order")
+- The user is redirected to the confirmation page
+
+--------------------------------------------------------------------------------------
+
+## TC-CHECKOUT-03 - Finalizar compra exitosamente
+
+**Precondición:**
+Usuario logueado
+
+**Pasos:**
+1. Agregar un producto al carrito
+2. Ir al carrito
+3. Hacer clic en Checkout
+4. Ingresar First Name válido
+5. Ingresar Last Name válido
+6. Ingresar código postal válido
+7. Hacer clic en Continue
+8. Hacer clic en Finish
+
+**Resultado esperado:**
+- La compra se completa correctamente
+- Se muestra un mensaje de confirmación (ej: "Thank you for your order")
+- El usuario es redirigido a la página de confirmación
