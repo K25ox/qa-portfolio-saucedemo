@@ -42,6 +42,13 @@ The testing approach focused on:
 
 This project demonstrates the ability to design test cases, identify defects, and document findings in a clear and structured way, simulating a real QA workflow.
 
+## 📊 Testing Summary
+
+- Total test cases: 7
+- Total bugs found: 3
+- High severity: 2
+- Low severity: 1
+
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -85,6 +92,13 @@ El enfoque de testing se centró en:
 - Validación de campos y reglas de negocio
 - Pruebas negativas (datos inválidos, campos vacíos)
 - Validación básica de experiencia de usuario (mensajes de error y feedback)
+
+## 📊 Resumen de Testing
+
+- Total de casos de prueba: 7
+- Total de bugs encontrados: 3
+- Severidad alta: 2
+- Severidad baja: 1
 
 ## 📌 Conclusión
 
