@@ -1,0 +1,14 @@
+## TC-CART-02 - Eliminar producto del carrito
+
+**Precondición:**
+Usuario logueado con al menos un producto en el carrito
+
+**Pasos:**
+1. Agregar un producto al carrito
+2. Ir al carrito
+3. Hacer clic en "Remove" del producto
+
+**Resultado esperado:**
+- El producto se elimina correctamente
+- El carrito se actualiza
+- El ícono del carrito muestra la cantidad correcta
